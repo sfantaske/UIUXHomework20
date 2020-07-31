@@ -47,3 +47,17 @@
 #research h5, #research .card-text {
     text-align: center;
 }
+
+#desktoppic {
+    max-width: 50vw;
+    max-height: 50vh;
+}
+
+#prototype h3 {
+    padding: 10px;
+    background-color: #7a63ff;
+}
+
+#prototype img {
+    max-width: 25vw;
+}
