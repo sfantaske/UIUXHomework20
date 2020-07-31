@@ -1,0 +1,45 @@
+#Intro .jumbotron {
+    text-align: center;
+}
+
+#problem {
+    text-align: center;
+}
+
+#footer, nav {
+    background-color: #e7e7e7;
+}
+
+#footer a, nav a {
+    color: #7a63ff;
+}
+
+.jumbotron {
+    background-color: #7a63ff;
+    color: black;
+}
+
+#problem p, #problem h1, #Intro h1, #Intro p {
+    background-color: #e7e7e7;
+    margin: 0px;
+}
+
+#problem p, #Intro p {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+#problem h1, #Intro h1 {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#Intro .lead {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#Intro {
+    margin-bottom: 0px;
+}
