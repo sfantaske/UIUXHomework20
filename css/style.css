@@ -43,3 +43,7 @@
 #Intro {
     margin-bottom: 0px;
 }
+
+#research h5, #research .card-text {
+    text-align: center;
+}
